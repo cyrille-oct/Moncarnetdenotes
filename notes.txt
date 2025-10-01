@@ -1,1 +1,1 @@
-"moncarnetdenotes - jour1"
+#Taches du jour:\n -Maitrise des commandes Git \n -Configurer le depot distant
